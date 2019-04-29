@@ -29,6 +29,31 @@
       "id": 6,
       "name": "Ribbon",
       "categoryId": 3
+    },
+    {
+      "name": "Skittles wrappers",
+      "categoryId": "7",
+      "id": 7
+    },
+    {
+      "name": "red crayon end",
+      "categoryId": "5",
+      "id": 8
+    },
+    {
+      "name": "art",
+      "categoryId": "2",
+      "id": 9
+    },
+    {
+      "name": "beige",
+      "categoryId": "6",
+      "id": 10
+    },
+    {
+      "name": "spiderman",
+      "categoryId": "8",
+      "id": 11
     }
   ],
   "category": [
@@ -55,6 +80,18 @@
     {
       "name": "Colored Pencils",
       "id": 6
+    },
+    {
+      "name": "Random",
+      "id": 7
+    },
+    {
+      "name": "unsticky stickers",
+      "id": 8
+    },
+    {
+      "name": "more junk",
+      "id": 9
     }
   ],
   "order": [
